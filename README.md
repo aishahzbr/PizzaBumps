@@ -5,7 +5,7 @@ Team Members:
 3. Aina Hazlin Binti Musa (B032010137)
 4. Siti Aishah Binti Ahmad Zubir (B032010241)
 
-Pizzabump is an application where a pizza kiosk used to let customer order pizza
+PizzaBumps is an application where a pizza kiosk used to let customer order pizza
 from their stall.
 There are navigations for customer and admin which are Menu and Admin.
 
