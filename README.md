@@ -1,7 +1,7 @@
 # PizzaBumps
 Team Members:
 1. Muhammad Atif Hazim Bin Mohd Nasruddin (B032010040)
-2.
+2. Darven A\L S.Madhavan (B032010179)
 3. Aina Hazlin Binti Musa (B032010137)
 4. Siti Aishah Binti Ahmad Zubir (B032010241)
 
