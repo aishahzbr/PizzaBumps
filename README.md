@@ -45,3 +45,7 @@ Step to execute the application
 6. Upload pizzabumps sqlite file into the databases by right click on databases > upload
 7. Run the application 
 8. You can test admin by entering username: aishah password: abc 123
+
+Link for video presentation at youtube.
+====================================================================================
+https://youtu.be/o41PrjdXGWg
